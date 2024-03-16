@@ -36,3 +36,6 @@ for循环、range函数。
 
 ## 第十一天 - Blackjack Capstone Project
 21点实战项目
+
+## 第十二天 - 作用域、猜数游戏
+作用域、猜数游戏
